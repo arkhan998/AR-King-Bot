@@ -6,7 +6,7 @@
 
 <img alt="AR_KING_MD" height="300" src="https://i.imgur.com/2xWAIMg.jpg">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝐀𝐑_𝐊𝐈𝐍𝐆+𝑴𝑫+𝑩𝑶𝑻;ᴏᴡɴᴇʀ+ʙʏ+ᴍᴀʟɪᴋ+ꜱᴀʜᴀʙ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+Ata+Ur+Rehman;ᴘᴏᴡᴇʀᴅ+ʙʏ:+ᴄʏʙᴇʀ+ᴡᴀʀʀɪᴏʀs+x+ᴛᴇᴀᴍ)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝐀𝐑_𝐊𝐈𝐍𝐆+𝑴𝑫+𝑩𝑶𝑻;ᴏᴡɴᴇʀ+ʙʏ+ᴍᴀʟɪᴋ+ꜱᴀʜᴀʙ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+Ata+Ur+Rehman;Technical+Malik:+Offical+ᴍᴀʟɪᴋ+ꜱᴀʜᴀʙ)](https://git.io/typing-svg)
 
 <h1 align="center">AR_King- MultiDevice</h1>
 
