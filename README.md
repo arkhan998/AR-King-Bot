@@ -8,7 +8,9 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝐀𝐑_𝐊𝐈𝐍𝐆+𝑴𝑫+𝑩𝑶𝑻;ᴏᴡɴᴇʀ+ʙʏ+ᴍᴀʟɪᴋ+ꜱᴀʜᴀʙ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+Ata+Ur+Rehman;Technical+Malik:+Offical+ᴍᴀʟɪᴋ+ꜱᴀʜᴀʙ)](https://git.io/typing-svg)
 
-<h1 align="center">AR_King- MultiDevice</h1>
+----------
+<a aria-label="Join our chats" href="https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Supporter Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 
