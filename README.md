@@ -1,10 +1,13 @@
 # AR-King-Bot
 WhatsApp Bot
 
+<p align="center">
+<a href="https://github.com/arkhan998">
+    <img src="https://i.imgur.com/2xWAIMg.jpg" width="700px">
+  </a>
 
 
 
-https://i.imgur.com/2xWAIMg.jpg
 
 
 # Not Release Publicly
