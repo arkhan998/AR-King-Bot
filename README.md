@@ -29,7 +29,7 @@
 <a href="https://youtube.com/@technicalmalikofficial?si=7EBwTHKvBbweQEQQ/"><img align="center" src="https://i.imgur.com/DK2oJJI.jpg" alt="MALIK" height="250" width="300" /></a><br>
 
 
-###.          contact owner on WhatsApp
+##            contact owner on WhatsApp
 
 
 
