@@ -24,4 +24,4 @@
 
 <div align="center">
    
-<a href="https://qr.ar-king-bot.tk/"><img align="center" src="https://i.imgur.com/DK2oJJI.jpg" alt="MALIK" height="554x554" width="300" /></a><br>
+<a href="https://qr.ar-king-bot.tk/"><img align="center" src="https://i.imgur.com/DK2oJJI.jpg" alt="MALIK" height="250" width="300" /></a><br>
