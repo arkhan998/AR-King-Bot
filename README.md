@@ -27,3 +27,15 @@
 <div align="center">
     
 <a href="https://youtube.com/@technicalmalikofficial?si=7EBwTHKvBbweQEQQ/"><img align="center" src="https://i.imgur.com/DK2oJJI.jpg" alt="MALIK" height="250" width="300" /></a><br>
+
+
+###.          contact owner on WhatsApp
+
+
+
+
+
+
+<div align="center">
+    
+<a href="https://wa.me/qr/ER65ZTJD4TZNL1"><img align="center" src="https://i.imgur.com/yaUJ8fJ.jpg" alt="MALIK" height="720" width="1280" /></a><br>
