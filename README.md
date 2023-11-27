@@ -24,4 +24,4 @@
 
 <div align="center">
    
-<a href="https://qr.ar-king-bot.tk/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="https://qr.ar-king-bot.tk/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="MALIK SAHAB" height="112" width="300" /></a><br>
