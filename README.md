@@ -21,3 +21,7 @@
 <img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
 
 </p>
+
+<div align="center">
+   
+<a href="https://qr.ar-king-bot.tk/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
