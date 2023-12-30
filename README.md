@@ -38,4 +38,4 @@
 
 <div align="center">
     
-<a href="https://wa.me/qr/ER65ZTJD4TZNL1"><img align="center" src="https://i.imgur.com/pcpgNbu.jpg" alt="MALIK" height="602" width="680" /></a><br>
+<a href="https://wa.me/+923310195292"><img align="center" src="https://i.imgur.com/pcpgNbu.jpg" alt="MALIK" height="602" width="680" /></a><br>
